@@ -27,4 +27,4 @@ Abrir a URL do site Getnet
 
 ---
 
-Relatório dos testes pode ser encontrado na pasta relatorio-testes-cucumber
+    Relatorio dos testes pode ser encontrado na pasta relatorio-testes-cucumber
