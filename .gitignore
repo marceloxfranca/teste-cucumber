@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
@@ -8,5 +8,5 @@
 /httpRequests/
 
 #pastas geradas pela execucao
-/target/
-/relatorio-testes-cucumber/
+target/
+relatorio-testes-cucumber/
