@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/",
         monochrome = true,
         glue = "",
-        plugin = {"pretty","html: relatorio-testes-cucumber/reports-cucumber.html/"}
+        plugin = {"pretty","html: relatorio/reports-cucumber.html/"}
 )
 
 public class TestPesquisaRunCucumber {
