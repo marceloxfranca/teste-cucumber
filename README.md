@@ -28,5 +28,3 @@ Abrir a URL do site Getnet
 ---
 
 Relatório dos testes pode ser encontrado na pasta relatorio-testes-cucumber
-
-![](../../Desktop/Screen Shot 2021-09-15 at 00.18.02 AM.png)

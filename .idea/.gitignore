@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+#pastas geradas pela execucao
+target/
+relatorio-testes-cucumber/
