@@ -9,5 +9,5 @@
 /httpRequests/
 
 #pastas geradas pela execucao
-target/
-relatorio-testes-cucumber/
+/target/
+/relatorio-testes-cucumber/
