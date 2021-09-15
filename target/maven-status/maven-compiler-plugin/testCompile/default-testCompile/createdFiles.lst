@@ -1,0 +1,6 @@
+br/com/site/getnet/core/BaseTest.class
+br/com/site/getnet/runner/TestPesquisaRunCucumber.class
+br/com/site/getnet/steps/HooksConfig.class
+br/com/site/getnet/steps/LocalizaSteps.class
+br/com/site/getnet/page/PaginaGetnet.class
+br/com/site/getnet/driverFactory/ConfigDriver.class
